@@ -244,10 +244,14 @@
   margin: 18px
 }
 .home-section .normal-text{
-  display: inline-block;
   color: #11101d;
   font-size: 14px;
-  margin: 18px
+  margin-left: 18px;
+  margin-right: 18px;
+}
+.home-section .cards{
+  color: #11101d;
+  margin: 18px;
 }
 @media (max-width: 420px) {
   .sidebar li .tooltip{
