@@ -1,2 +1,2 @@
-# Nuclearenergydebate.github.io
+# nuclearenergydebate.github.io
 hello
